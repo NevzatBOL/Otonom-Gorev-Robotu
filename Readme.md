@@ -1,6 +1,8 @@
 # Otonom Görev Robotu
 
-nevbot Dosyası indirildikten sonra dosya içerisinde 'catkin_make' yapılarak dosyanın ros bağlantıları yapılır.
+Nevbot dosyası indirildikten sonra dosya içerisinde 'catkin_make' yapılarak dosyanın ros bağlantıları yapılır.
+
+**Not: Burada yer alan ROS paketleri projenin son halini yansıtmamaktadır.**
 
 Robotu Gazebo Simülasyon ortamında çalıştırmak için;
 
